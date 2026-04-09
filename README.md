@@ -3,3 +3,5 @@
 [![Actions Status](https://github.com/jpkk8/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/jpkk8/frontend-project-44/actions)
 
 [![asciicast](https://asciinema.org/a/YpVvQ63MSyzOK3b4.svg)](https://asciinema.org/a/YpVvQ63MSyzOK3b4)
+
+ [![asciicast](https://asciinema.org/a/XJTOjE2XCdhQTch8.svg)](https://asciinema.org/a/XJTOjE2XCdhQTch8)
