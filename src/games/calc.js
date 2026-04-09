@@ -23,6 +23,8 @@ const getRoundData = () => {
   return [question, correctAnswer];
 };
 
-export default () => {
+const runCalc = () => {
   runEngine(description, getRoundData);
 };
+
+export default runCalc;

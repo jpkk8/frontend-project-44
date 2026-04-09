@@ -1,6 +1,6 @@
 import runEngine from '../index.js';
 
-// Правила игры
+// правила игры
 const description = 'Answer "yes" if the number is even, otherwise answer "no".';
 
 // Проверка на четность (предикат)
@@ -14,6 +14,8 @@ const getRoundData = () => {
   return [question, correctAnswer]; // Возвращаем вопрос и ответ в движок
 };
 
-export default () => {
+const runEven = () => {
   runEngine(description, getRoundData);
 };
+
+export default runEven;

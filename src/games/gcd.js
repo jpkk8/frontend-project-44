@@ -12,5 +12,10 @@ const getRoundData = () => {
   return [question, correctAnswer];
 };
 
-export default () => runEngine(description, getRoundData);
+const runGcd = () => {
+  runEngine(description, getRoundData);
+};
+
+export default runGcd;
+
  
