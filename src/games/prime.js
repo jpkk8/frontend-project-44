@@ -21,6 +21,8 @@ const getRoundData = () => {
   return [question, correctAnswer];
 };
 
-export default () => {
+const runPrime = () => {
   runEngine(description, getRoundData);
 };
+
+export default runPrime;
