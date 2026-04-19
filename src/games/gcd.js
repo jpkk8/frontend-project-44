@@ -17,5 +17,3 @@ const runGcd = () => {
 };
 
 export default runGcd;
-
- 
